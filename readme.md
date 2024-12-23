@@ -15,6 +15,13 @@ Before you start using Git, ensure you have it installed and configured on your 
    git config --global user.email "your-email@example.com"
    git config --list
 
+**Check Git Version**
+
+Check the version of Git installed on your system:
+
+```bash
+git --version
+
 **Check Git Version**:
     Check the version of Git installed on your system:
 
