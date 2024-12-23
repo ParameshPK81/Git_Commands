@@ -35,7 +35,6 @@ Before you start using Git, ensure you have it installed and configured on your 
     git remote -v
 
 6. **List Global Git Configuration**
-    List all global Git configurations:
 
     ```bash
     git config --global --list
