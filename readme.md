@@ -39,7 +39,7 @@ Before you start using Git, ensure you have it installed and configured on your 
     ```bash
     git config --global --list
 
-    List all Git Configuration:
+7. **List all Git Configuration**
 
     ```bash
     git config --list
