@@ -15,12 +15,6 @@ Before you start using Git, ensure you have it installed and configured on your 
    git config --global user.email "your-email@example.com"
 
 
----
-# 🚀 **Git - Version Control System** 🚀
-
-This is a collection of basic and essential Git commands that every beginner should know. Use this as a quick reference to recall common Git commands easily.
-
----
 
 ## 📦 **Check Git Version**
 
