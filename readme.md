@@ -151,4 +151,4 @@ Before you start using Git, ensure you have it installed and configured on your 
     git reset --hard <commit_hash> - make changes in github
 
 27. **Fork**
-    Fork  - a rough copy - a new repository that shares code and visibility settings with the original upstream repository 
+    A rough copy - a new repository that shares code and visibility settings with the original upstream repository 
