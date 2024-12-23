@@ -13,15 +13,15 @@ Before you start using Git, ensure you have it installed and configured on your 
    ```bash
    git config --global user.name "Your Name"
    git config --global user.email "your-email@example.com"
----
+
    To check the details
+
    ```bash
    git config --global --list
    git config --list
 
 
-
-## 📦 **Check Git Version**
+3. **Check Git Version**
 
 Check the version of Git installed on your system:
 
@@ -29,32 +29,33 @@ Check the version of Git installed on your system:
 git --version
 
 
-## 🌐 **Clone a Repository**
+4. **Clone a Repository**
 
 Clone a repository from a remote source (e.g., GitHub):
 
 ```bash
 git clone <link>
 
----
 
 
-## 🔗 **View Remote Repositories**
+5. **View Remote Repositories**
 
 View the remotes associated with your repository:
 
 ```bash
 git remote -v
 
-## ⚙️ **List Global Git Configuration**
+6. **List Global Git Configuration**
 
 List all global Git configurations:
 
 ```bash
 git config --global --list
 
----
+List all Git Configuration:
 
+```bash
+git config --list
 
 
 
