@@ -43,6 +43,3 @@ Before you start using Git, ensure you have it installed and configured on your 
 
     ```bash
     git config --list
-
-
-
