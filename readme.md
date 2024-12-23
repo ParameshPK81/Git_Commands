@@ -23,32 +23,27 @@ Before you start using Git, ensure you have it installed and configured on your 
 
 
 4. **Clone a Repository**
+    Clone a repository from a remote source (e.g., GitHub):
 
-Clone a repository from a remote source (e.g., GitHub):
-
-```bash
-git clone <link>
-
-
+    ```bash
+    git clone <link>
 
 5. **View Remote Repositories**
+    View the remotes associated with your repository:
 
-View the remotes associated with your repository:
-
-```bash
-git remote -v
+    ```bash
+    git remote -v
 
 6. **List Global Git Configuration**
+    List all global Git configurations:
 
-List all global Git configurations:
+    ```bash
+    git config --global --list
 
-```bash
-git config --global --list
+    List all Git Configuration:
 
-List all Git Configuration:
-
-```bash
-git config --list
+    ```bash
+    git config --list
 
 
 
