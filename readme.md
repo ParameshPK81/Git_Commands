@@ -13,9 +13,9 @@ Before you start using Git, ensure you have it installed and configured on your 
    ```bash
    git config --global user.name "Your Name"
    git config --global user.email "your-email@example.com"
-
+---
    To check the details
-   ```
+   ```bash
    git config --global --list
    git config --list
 
